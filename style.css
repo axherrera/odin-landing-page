@@ -141,6 +141,7 @@ img {
     justify-content: center;
     flex-direction: column;
     width: 50%;
+    flex: 1;
 }
 
 .right-photo {
@@ -148,6 +149,7 @@ img {
     width: 50%;
     justify-content: center;
     align-items: center;
+    flex: 1;
 }
 
 .title {
